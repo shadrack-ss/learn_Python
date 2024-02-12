@@ -10,7 +10,7 @@ Twinkle, twinkle, little star,
 	How I wonder what you are
 
 2. Write a Python program to find out what version of Python you are using.
-Click me to see the sample solution
+
 
 3. Write a Python program to display the current date and time.
 Sample Output :
